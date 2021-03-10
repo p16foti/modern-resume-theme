@@ -48,9 +48,9 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Fotios and I'm a Student of Ionian University at the Informatics Department. Experienced in Programming Languages such as C,C++,Java. Attended courses on Network Security and Ethical Hacking. Working on Software Εngineering and eager to develop my knowledge and skills in the field. Worked on Information System Analysis and Design projects.
+  Hi, my name's Fotios and I'm a Student of Ionian University at the Informatics Department. Experienced in Programming Languages such as C, C++, Java. Attended courses on Network Security and Ethical Hacking. Worked on Information System Analysis and Design projects. Working on Software Εngineering and eager to develop my knowledge and skills in the field.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>C++</mark> and <mark>Java</mark>
 
 content:
   - title: Projects # Title for the section
